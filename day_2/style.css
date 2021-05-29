@@ -1,0 +1,20 @@
+ 
+ body{
+    background-color: lightgray;
+    /* background-image: url( https://picsum.photos/200/300);  */
+    }
+    .my_class{
+        background-color: white;
+    }
+     
+    div,span,p{
+    font-size: 15px;
+    font-family:cursive;
+    font-weight: lighter;
+    }
+    
+    h3{
+        font-size: 30px;
+        font-family: 'Times New Roman', Times, serif;
+        font-weight: bolder;
+    } 
