@@ -1,0 +1,65 @@
+
+ * {
+     box-sizing: border-box;
+   }
+
+    body {
+        font-size: 1.25rem;
+        font-family: 'Baloo Bhai 2', cursive;;
+        line-height: 150%;
+        text-shadow: 0 2px 2px #6b6a68;
+    }
+
+    section {
+        color: #fff;
+        text-align: left;
+    }
+
+    div {
+        height: 100%;
+    }
+
+    article {
+        position: absolute;
+        top: 43%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        width: 100%;
+        padding: 20px;
+    }
+
+    a {
+        color: #fff;
+    }
+
+    h1 {
+        font-size: 1.75rem;
+        margin: 0 0 0.75rem 0;
+        padding: 2px;
+    }
+
+    #first {
+        font-family: 'Baloo Bhai 2', cursive;;
+    }
+
+    /* Pattern styles */
+    .container {
+        display: table;
+        width: 100%;
+    }
+
+    .left-class {
+        background-color: #575856;
+        position: absolute;
+        left: 0px;
+        width: 50%;
+        height: 200%;
+    }
+
+    .right-class {
+        background-color: #3b3b3a;
+        position: absolute;
+        right: 0px;
+        height: 200%;
+        width: 50%;
+    }
